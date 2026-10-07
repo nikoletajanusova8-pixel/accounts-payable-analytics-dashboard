@@ -6,4 +6,4 @@ Skills demonstrated: Power BI, DAX, Excel, KPI Reporting, Data Visualization.
  
 ## Dashboard Preview
  
-Accounts%20Payable%20Analytics%20Dashboard.png
+dashboard-preview.png
